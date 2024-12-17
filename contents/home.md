@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![960212](https://img.shields.io/badge/960212-github-blue?logo=github)](https://github.com/960212)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He currently works as an assistant researcher at the Tianjin City Academy of Agricultural Sciences.
 
 #### Email
-sli[at]cumt.edu.cn
+shengjhui@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Research Assistant, Tianjin Academy of Agricultural Sciences, 2024— ~.\
+Ph.D., Major in Animal Husbandry, Ningxia University, 2021—2024.\
+M.S., majoring in clinical veterinary medicine, Tianjin Agricultural College, 2018—2021.\
+B.S., majoring in animal medicine, Tarim University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+molecular biology, cell biology, bioinformatics.
 

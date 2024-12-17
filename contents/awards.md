@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- First-class academic scholarship to Ningxia University, 2021-2023.
 
-- First-prize Scholarship of CUMT, 2024.
+- Excellent dissertation in Tianjin City, 2021.
 
-- First-prize Scholarship of CUMT, 2023.
+- Excellent thesis of Tianjin Agricultural College, 2021.
 
-- Freshman Scholarship of CUMT, 2022.
+- The second prize for the paper at the 7th Beijing-Tianjin-Hebei Animal Husbandry and Veterinary Science and Technology Innovation Seminar and the "New Ideas, New Methods, and New Viewpoints" Forum, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- First-class scholarship to Tianjin Agricultural College, 2018-2020.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Tarim University Scholarship, 2015.
